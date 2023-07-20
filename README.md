@@ -7,10 +7,10 @@ Before running the TimeWise app, ensure you have the following dependencies inst
 - Python (version 3.6 or higher)
 - pygame library
 - customtkinter library
-`
+```
 pip install pygame
 pip install customtkinter
-`
+```
 
 # How to Use
 1. Clone or download this repository to your local machine.
