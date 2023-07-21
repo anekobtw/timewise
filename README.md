@@ -30,7 +30,7 @@ After you downloaded everything, you can open the `timewise.py` file either with
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Roadmap
  - [ ] Download more sounds and make it so that you can choose the sound yourself 
