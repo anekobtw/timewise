@@ -34,5 +34,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Roadmap
  - [ ] Download more sounds and make it so that you can choose the sound yourself.
-<<<<<<< HEAD
  - [ ] Make a stopwatch.
