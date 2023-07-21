@@ -17,7 +17,7 @@ Then you need to install customtkinter and pygame libraries on your local machin
 pip install customtkinter
 ```
 
-3. Install pygame library using this command
+3. Install pygame library using this command.
 
 ```
 pip install pygame
@@ -30,8 +30,8 @@ After you downloaded everything, you can open the `timewise.py` file either with
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Roadmap
- - [ ] Download more sounds and make it so that you can choose the sound yourself 
- - [ ] Make stopwatch
+ - [ ] Download more sounds and make it so that you can choose the sound yourself.
+ - [ ] Make a stopwatch.
