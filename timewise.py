@@ -14,7 +14,7 @@ class Timer:
         self.full_seconds = 0
 
     def start_timer_thread(self):
-        if start_button.text == 'Start':
+        if start_button._text == 'Start':
             self.full_seconds = 0
             pause_event.clear()
             start_button.configure(text='Pause', fg_color='blue')
@@ -37,7 +37,7 @@ class Timer:
 
                 time_label.configure(text=f'{hours:02d}:{minutes:02d}:{seconds:02d}')
                 if self.full_seconds <= 10:
-                    time_label.configure(fg='red')
+                    time_label.configure(text_color='red')
                 if self.full_seconds == 0:
                     self.reset_timer()
                     pygame.mixer.Sound('sound_01.mp3').play()                     
@@ -54,13 +54,13 @@ class Timer:
 
     def reset_timer(self):
         self.full_seconds = 0
-        time_label.configure(text='00:00:00', fg='white')
+        time_label.configure(text='00:00:00', text_color='white')
         start_button.configure(text='Start', fg_color='green')
 
 timer = Timer()
 root = ctk.CTk()
 root.title('TimeWise')
-root.set_appearance_mode('dark')
+root._set_appearance_mode('dark')
 
 info_label = ctk.CTkLabel(root, text=f'v0.2 beta\nby anekobtw')
 info_label.grid(row=0, column=5, padx=5, pady=5)
