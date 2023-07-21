@@ -1,28 +1,37 @@
 # TimeWise
- A simple timer application built using Python with the customtkinter library
 
-## Requirements
-Before running the TimeWise app, ensure you have the following dependencies installed:
+TimeWise is a simple timer application built using Python with the customtkinter library.
 
-- Python (version 3.6 or higher)
-- pygame library
-- customtkinter library
+## Getting Started
+
+First of all, make sure that you have Python 3.6 or higher installed on your local machine.
+
+### Installing
+
+Then you need to install customtkinter and pygame libraries on your local machine, so program won't crash.
+
+1. Open cmd
+
+2. Install customtkinter library using this command.
 ```
-pip install pygame
 pip install customtkinter
 ```
 
-# How to Use
-1. Clone or download this repository to your local machine.
-2. Run the program.
-3. The TimeWise Timer app window will open, showing the initial timer value set to 00:00:00.
-4. Enter the desired countdown time in the format hh:mm:ss into the respective input fields (hours, minutes, and seconds).
-5. Click the "Start" button to start the timer countdown. The timer will update every second, and the text color will turn red when there are only 10 seconds left.
-6. To pause the timer, click the "Pause" button. Clicking it again will resume the countdown.
-7. When the timer reaches zero, an audio notification will play, and the timer will reset to 00:00:00. You can also manually reset the timer by clicking the "Reset" button.
+3. Install pygame library using this command
 
-# Note
-The "Change Alarm" button is currently under development and disabled. Future versions may include this functionality.
+```
+pip install pygame
+```
 
-# Licence
-The TimeWise Timer app is licensed under the MIT License.
+### How to use
+
+After you downloaded everything, you can open the `timewise.py` file either with double-clicking on it, or with command in cmd
+`python timewise.py`
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Roadmap
+ - [ ] Download more sounds and make it so that you can choose the sound yourself 
+ - [ ] Make stopwatch
