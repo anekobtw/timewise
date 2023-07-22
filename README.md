@@ -33,5 +33,9 @@ After you downloaded everything, you can open the `timewise.py` file either with
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Roadmap
- - [ ] Download more sounds and make it so that you can choose the sound yourself.
- - [ ] Make a stopwatch.
+ - [ ] Download more sounds and make sound selection.
+ - [ ] Stopwatch feature.
+ - [ ] Make interface customizable.
+ - [ ] Add tussian language support.
+ - [ ] Add presets feature.
+ - [ ] Write a documentation for the programm.
