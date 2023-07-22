@@ -38,4 +38,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
  - [ ] Make interface customizable.
  - [ ] Add russian language support.
  - [ ] Add presets feature.
- - [ ] Write a documentation for the programm.
+ - [ ] Write a documentation for the program.
