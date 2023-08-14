@@ -1,5 +1,7 @@
 # TimeWise
 
+<img src='https://images-ext-2.discordapp.net/external/3tPqE0jEJX5MQ7O-b8DRGvvls0mzSqsc-MPpuyjHxGU/https/i.imgur.com/xGeN5FN.png?width=903&height=277'></img>
+
 TimeWise is a simple timer application built using Python.
 
 ## Getting Started
