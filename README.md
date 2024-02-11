@@ -1,42 +1,15 @@
 # TimeWise
-
-<img src='https://images-ext-2.discordapp.net/external/3tPqE0jEJX5MQ7O-b8DRGvvls0mzSqsc-MPpuyjHxGU/https/i.imgur.com/xGeN5FN.png?width=903&height=277'></img>
+![licence](https://img.shields.io/badge/License-MIT-green.svg)
+![version](https://img.shields.io/badge/Version-0.4_beta-blue)
 
 TimeWise is a simple timer application built using Python.
 
-## Getting Started
+## Preview
+<img src='https://media.discordapp.net/attachments/1160587020163366912/1206183156760322078/image.png?ex=65db149a&is=65c89f9a&hm=b432048c27d74120d03f5cd866a338e366e43fb865dc43aaa445fd9041202674&=&format=webp&quality=lossless'></img>
 
-Before you begin, ensure that you have Python installed on your local machine.
-
-### Installing
-
-To prevent any potential crashes, make sure to install the required libraries, such as playsound and customtkinter, on your local machine.
-
-1. Open your command prompt (cmd).
-
-2. Install the customtkinter library using the following command:
-
-```
-pip install customtkinter
-```
-
-3. Install the playsound library using this command:
-
-```
-pip install playsound
-```
-
-### How to use
-
-Once you've completed the installation, you can open the `timewise.py` file by either double-clicking it or using the following command in the command prompt:
-
-```
-python timewise.py
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Acknowledgements
+ - [customtkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter 
+ - [playsound](https://github.com/TaylorSMarks/playsound) - Pure Python, cross platform, single function module with no dependencies for playing sounds. 
 
 ## Roadmap
  - [x] Download more sounds and make sound selection feature.
@@ -45,3 +18,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
  - [ ] Add russian language support.
  - [ ] <s> Add presets feature. </s>
  - [x] Write a documentation for the program.
+
+## Contributing
+Contributions are always welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue on the GitHub repository.
