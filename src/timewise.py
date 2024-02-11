@@ -53,8 +53,8 @@ class Timer:
         """Start the timer countdown with the given time in hours, minutes, and seconds."""
         self.full_seconds = hours * 3600 + minutes * 60 + seconds
 
-        for _ in range(self.full_seconds):
-            while self.pause_event:
+        while self.full_seconds > 0:
+            if self.pause_event:
                 pass
 
             self.full_seconds -= 1
