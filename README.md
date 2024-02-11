@@ -16,8 +16,6 @@ TimeWise is a simple timer application built using Python.
  - [ ] Stopwatch feature.
  - [ ] Make the interface customizable.
  - [ ] Add russian language support.
- - [ ] <s> Add presets feature. </s>
- - [x] Write a documentation for the program.
 
 ## Contributing
 Contributions are always welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue on the GitHub repository.
