@@ -18,4 +18,4 @@ TimeWise is a simple timer application built using Python.
  - [ ] Add russian language support.
 
 ## Contributing
-Contributions are always welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue on the GitHub repository.
+Contributions are always welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue on the [GitHub repository](https://github.com/anekobtw/timewise).
