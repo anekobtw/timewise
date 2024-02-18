@@ -1,6 +1,7 @@
 # TimeWise
 ![licence](https://img.shields.io/badge/License-MIT-green.svg)
 ![version](https://img.shields.io/badge/Version-0.4_beta-blue)
+![made with love](https://img.shields.io/badge/Made_with-Love-red)
 
 TimeWise is a simple timer application built using Python.
 
